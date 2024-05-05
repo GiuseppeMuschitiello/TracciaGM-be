@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Traccia1.Web.props" />
+</Project>
